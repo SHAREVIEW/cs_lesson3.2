@@ -48,6 +48,4 @@ else
 }
 
 
-! [read fail ] (
-        https://github.com/SHAREVIEW/cs_lesson3.2/blob/master/pic_20181029135043.png
-      )；
+![read fail ](https://github.com/SHAREVIEW/cs_lesson3.2/blob/master/images/pic_20181029135043.png)
