@@ -5,46 +5,82 @@ if语句
 
 
 1、
+
 if (var1 == 1)
+
 {
+
 // do something
+
 }
+
 else
+
 {
+
 if (var1 == 2)
 {
+
 // do something else
+
 }
+
 else
+
 {
+
 if (var1 == 3 || var1 == 4)
+
 {
+
 // do something else
+
 }
+
 else
+
 {
+
 // do something else
+
 }
+
 }
+
 }
 
 2、
 if (var1 == 1)
-{
-// do something
-}
-else if (var1 == 2)
-{
-// do something else
-}
-else if (var1 == 3 || var1 == 4)
-{
-// do something else
-}
-else
 
 {
+
+// do something
+
+}
+
+else if (var1 == 2)
+
+{
+
 // do something else
+
+}
+
+else if (var1 == 3 || var1 == 4)
+
+{
+
+// do something else
+
+}
+
+else
+
+
+{
+
+// do something else
+
 }
 
 
